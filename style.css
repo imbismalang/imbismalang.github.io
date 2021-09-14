@@ -1,0 +1,93 @@
+body {
+    background-color: white;
+}
+/* .nvbrtop1 {
+    background-color: #ff0066;
+    z-index: 2;
+} */
+
+.nvbr1 {
+    background-color: #fe0000;
+}
+.nvbrlink1 {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.nvbrlink1:hover {
+    color: black;
+}
+
+.cntnr1 {
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    max-width: 900px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+.cntnr1 img {
+    margin-bottom: 20px;
+}
+.cntnr2 {
+    margin: 50px auto;
+    max-width: 900px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.myimg1 {
+    margin-top: -50px;
+}
+.mytitle1 {
+    margin-top: 30px;
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    color: #fe0000;
+}
+.mytitle2 {
+    margin-top: -30px;
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    color: #fe0000;
+}
+.mytitle3 {
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    color: #fe0000;
+}
+.mytitle3:hover {
+    color: black;
+}
+
+.konseling-klik1 {
+    margin-bottom: 30px;
+    display: block;
+    color: #fe0000;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+}
+.konseling-klik1:hover {
+    color: black;
+}
+
+.ftr1 {
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: #fe0000;
+    text-align: center;
+    z-index: 2;
+}
+.cpyr1 {
+    padding: 10px;
+    color: white;
+}
+
